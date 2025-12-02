@@ -1,8 +1,37 @@
-# BravDigital
+# DezNode
+
+### 🇨🇻 Inovação de Software para Cabo Verde e para o Mundo
+
+A DezNode é uma empresa de tecnologia em fase inicial de Cabo Verde, focada na criação de soluções digitais que capacitam comunidades e empresas locais.
+Combinamos criatividade, inovação e tecnologia moderna para resolver problemas reais com uma mentalidade global e um coração local.
+
+## 🌍 Missão
+
+Acelerar a transformação digital em Cabo Verde, construindo software acessível, confiável e inovador que apoie o crescimento e desenvolvimento local.
+
+## 🚀 Visão
+
+Tornar-se uma força líder na inovação digital na África Ocidental — criando soluções que inspirem progresso, conexão e oportunidades em todas as ilhas.
+
+## 🛠️ O Que Construímos
+
+- Ferramentas de gestão empresarial e produtividade
+- Aplicações Web e Mobile
+- Soluções baseadas em IA e dados
+- Software cloud-native e infraestrutura digital
+- Ferramentas desenhadas para empoderar pequenas e médias empresas
+
+## 📫 Contactos e Links
+
+- 🌐 [Website](#) *(brevemente)*
+- 💼 [LinkedIn](#)
+- 📧 [Email](#) *(brevemente)*
+
+---
 
 ### 🇨🇻 Innovating Software for Cape Verde and Beyond
 
-BravDigital is an early-stage technology company from Cape Verde focused on creating digital solutions that empower local communities and businesses.
+DezNode is an early-stage technology company from Cape Verde focused on creating digital solutions that empower local communities and businesses.
 We combine creativity, innovation, and modern technology to solve real problems with a global mindset and local heart.
 
 ## 🌍 Mission
@@ -26,32 +55,3 @@ To become a leading force in West African digital innovation — crafting soluti
 - 🌐 [Website](#) *(coming soon)*
 - 💼 [LinkedIn](#)
 - 📧 [Email](#) *(coming soon)*
-
----
-
-### 🇰🇻 🇨🇻 Inovason Digital pa Kabu Verdi y pa Mundu
-
-BravDigital é un kumpanhia di teknologia kabuverdianu na fase inicial ki ta disenvolve soluson digital pa apoya komunidades y negósius lokal.
-Nôs meta é uní kreatividá, inovason, y teknologia moderna pa kria mudansa real ku korason lokal y vizon global.
-
-## 🎯 Nôs Misson
-
-Acelera transformason digital na Kabu Verdi, kria software fasil di uzá, konfiável y inovador pa fortalese krezimentu y dezénvolvimentu lokal.
-
-## 🌅 Nôs Vizon
-
-Sêr un forsa lider na inovason digital di África di Osenti — kria soluson ki ta inspira progréssu, konezon y oportunidade na tudu ilha.
-
-## 🧰 Kuze nu ta Fazi
-
-- Ferramenta pa gestão di negósiu y produtividade
-- Aplikason web y móvile
-- Soluson ku AI y dados
-- Software na cloud
-- Ferramenta pa empodera pequenas y médias empresas
-
-## 📞 Kontatu & Ligason
-
-- 🌐 [Sítio Web](#) *(brebementi)*
-- 💼 [LinkedIn](#)
-- 📧 [Email](#) *(brebementi)*
